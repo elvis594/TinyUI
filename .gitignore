@@ -37,6 +37,7 @@ bazel-*
 #build 
 build-*
 build_*
+build*
 
 release/**
 # vscode configs
